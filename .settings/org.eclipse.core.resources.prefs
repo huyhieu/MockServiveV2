@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/Form/VerifyAccount/VerifyPage.jsp=UTF-8
+encoding//WebContent/Form/VerifyAccount/VerifyPageDelete.jsp=UTF-8
+encoding//WebContent/TestTiles/footer.jsp=UTF-8
+encoding//WebContent/TestTiles/header.jsp=UTF-8
+encoding//WebContent/TestTiles/layout.jsp=UTF-8
+encoding//src/GlobalDefine/EmailConfig.java=UTF-8
+encoding//src/com/viettel/common/util/MSG.java=UTF-8
+encoding//src/com/viettel/common/util/SSLEmail.java=UTF-8
